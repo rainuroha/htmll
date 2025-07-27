@@ -1,0 +1,19 @@
+p{
+    text-align : center;
+}
+h1{
+    text-align : center;
+    text-decoration:underline;
+    text-decoration:blue wavy overline;
+
+}
+a{
+    text-decoration:none;
+    
+}
+#one{
+    font-family: 'Franklin Gothic Medium';
+}
+#two{
+    font-family:Arial;
+}
